@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hacker-Maverick
 - 👀 I’m interested in Coding and hacking 
-- 🌱 I’m currently doing btech in CSE
+- 🌱 I’m currently doing btech.
 - 💞️ I’m looking to collaborate on nothing 
 - 📫 Reach me at pkumar199199@gmail.com
 
