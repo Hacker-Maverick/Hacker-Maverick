@@ -8,16 +8,14 @@ Welcome to my GitHub profile! I'm a passionate software developer and hacker wit
 - 🌱 I’m constantly learning and improving my skills in programming, cybersecurity, and AI.
 - 👯 I’m looking to collaborate on interesting projects and contribute to the community.
 - 💬 Ask me about anything related to software development, hacking, or tech in general.
-- 📫 How to reach me: [Email](mailto:hacker.maverick@example.com) | [LinkedIn](https://www.linkedin.com/in/hacker-maverick)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love playing chess and competitive coding challenges.
 
 ## Languages and Tools
 
-- **Languages:** Python, JavaScript, C++, Java, Go
-- **Frameworks:** React, Node.js, Django, Flask
-- **Tools:** Git, Docker, Kubernetes, AWS, Azure
-- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Languages:** Python, JavaScript, C++, Java, C, HTML, CSS.
+- **Frameworks:** React, Node.js, Express.js, EJS.
+- **Databases:** MySQL, MongoDB
 
 ## My GitHub Stats
 
